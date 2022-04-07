@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liamliao1104
+- 👀 I’m interested in big data develop
+- 🌱 I’m currently learning spark
+- 💞️ I’m looking to collaborate on data related tech
+- 📫 How to reach me -> via github
